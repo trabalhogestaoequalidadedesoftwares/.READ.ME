@@ -1,10 +1,10 @@
-#EVL TRAVEL
- Nosso código de agência de viagens é uma aplicação web que permite ao usuários pesquisar e reservar passagens aéreas, hotéis, pacotes de viagens e locação de veículos.
- O objetivo da EVL TRAVEL é tornar o processo de planejamento de viagens mais fácil e conveniente para os clientes.
+#Bedroms Dreans
+ Nosso código de agência de viagens é uma aplicação web que permite ao usuários pesquisar e reservar quartos de hotéis 
+ O objetivo da Bedroms Dreans é tornar o processo de planejamento de viagens mais fácil e conveniente para os clientes.
 
 Tabela de conteúdos
 <p align="center">
- <a href="#EVL-TRAVEL">Sobre</a> •
+ <a href="#Bedroms Dreans">Sobre</a> •
  <a href="#Pré-requisitos">Pré-requisitos</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#contribuicao">Contribuição</a> • 
