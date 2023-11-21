@@ -1,5 +1,5 @@
 #Bedroms Dreans
- Nosso código de agência de viagens é uma aplicação web que permite ao usuários pesquisar e reservar quartos de hotéis 
+ Nosso código de gerenciamento de um hotel, é uma aplicação web que permite ao usuários pesquisar e reservar quartos no hotel 
  O objetivo da Bedroms Dreans é tornar o processo de planejamento de viagens mais fácil e conveniente para os clientes.
 
 Tabela de conteúdos
