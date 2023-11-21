@@ -1,5 +1,5 @@
 #Bedroms Dreans
- Nosso código se baseia de gerenciamento de um hotel, é uma aplicação web que permite ao usuários pesquisar e reservar quartos no hotel 
+ Nosso código se baseia no gerenciamento de um hotel, é uma aplicação web que permite ao usuários pesquisar e reservar quartos no hotel 
  O objetivo da Bedroms Dreans é tornar o processo de planejamento de viagens mais fácil e conveniente para os clientes.
 
 Tabela de conteúdos
